@@ -1,3 +1,4 @@
+#include "HelloWorldConfig.h" // generated file
 #include <iostream>
 
 int main() {
